@@ -1,0 +1,248 @@
+{
+    "users": [
+      {
+        "menu": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "submenu": [
+          "8",
+          "5",
+          "2"
+        ],
+        "username": "suriya",
+        "password": "Suriya@123",
+        "id": "5461"
+      },
+      {
+        "id": "8c1c",
+        "menu": [
+          "2",
+          "4"
+        ],
+        "submenu": [
+          "5",
+          "7",
+          "9",
+          "11",
+          "12"
+        ],
+        "username": "Licko",
+        "password": "Licko@123"
+      },
+      {
+        "id": "464e",
+        "menu": [
+          "2",
+          "4"
+        ],
+        "submenu": [
+          "5",
+          "6",
+          "13"
+        ],
+        "username": "Bharath",
+        "password": "Welcome@123"
+      }
+    ],
+    "menus": [
+      {
+        "menuImage": "../../assets/images/Audit_image.png",
+        "menuName": "Audit",
+        "menuId": "1"
+      },
+      {
+        "menuImage": "../../assets/images/IT_dashboard.png",
+        "menuName": "IT Dashboard",
+        "menuId": "2"
+      },
+      {
+        "menuImage": "../../assets/images/cardinal_image.png",
+        "menuName": "Cardinal 3PL",
+        "menuId": "3"
+      },
+      {
+        "menuImage": "../../assets/images/ics_3pl_image.png",
+        "menuName": "ICS 3PL",
+        "menuId": "4"
+      }
+    ],
+    "submenus": [
+      {
+        "submenuImage": "../../assets/images/tech.png",
+        "submenuName": "Coupa Changes",
+        "submenuId": "1",
+        "menuId": "1"
+      },
+      {
+        "submenuImage": "../../assets/images/tech.png",
+        "submenuName": "Netsuite Admin Changes",
+        "submenuId": "2",
+        "menuId": "1"
+      },
+      {
+        "submenuImage": "../../assets/images/tech.png",
+        "submenuName": "Netsuite Role Changes",
+        "submenuId": "3",
+        "menuId": "1"
+      },
+      {
+        "submenuImage": "../../assets/images/tech.png",
+        "submenuName": "Netsuite Employee Role Changes",
+        "submenuId": "4",
+        "menuId": "1"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Contract",
+        "submenuId": "5",
+        "menuId": "2"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Purchase Orders",
+        "submenuId": "6",
+        "menuId": "2"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Invoice Details",
+        "submenuId": "7",
+        "menuId": "2"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Po Not Invoiced",
+        "submenuId": "8",
+        "menuId": "2"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Concur Expenses",
+        "submenuId": "9",
+        "menuId": "2"
+      },
+      {
+        "submenuImage": "../../assets/images/finance.png",
+        "submenuName": "All Invoices Report",
+        "submenuId": "10",
+        "menuId": "4"
+      },
+      {
+        "submenuImage": "../../assets/images/finance.png",
+        "submenuName": "Invoices With PO",
+        "submenuId": "11",
+        "menuId": "4"
+      },
+      {
+        "submenuImage": "../../assets/images/finance.png",
+        "submenuName": "Invoices Without PO",
+        "submenuId": "12",
+        "menuId": "4"
+      },
+      {
+        "submenuImage": "../../assets/images/finance.png",
+        "submenuName": "All PO's Report",
+        "submenuId": "13",
+        "menuId": "4"
+      },
+      {
+        "submenuImage": "../../assets/images/finance.png",
+        "submenuName": "PO Not Invoices",
+        "submenuId": "14",
+        "menuId": "4"
+      },
+      {
+        "submenuImage": "../../assets/images/finance.png",
+        "submenuName": "Overpaid Invoices",
+        "submenuId": "15",
+        "menuId": "4"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Gross Sales - Daily Orders",
+        "submenuId": "16",
+        "menuId": "3"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Gross Sales - Net Sales",
+        "submenuId": "17",
+        "menuId": "3"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Lot Movement Details",
+        "submenuId": "18",
+        "menuId": "3"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Inventory Snapshot",
+        "submenuId": "19",
+        "menuId": "3"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Inventory Transaction Report",
+        "submenuId": "20",
+        "menuId": "3"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Shipment Report",
+        "submenuId": "21",
+        "menuId": "3"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Returns",
+        "submenuId": "22",
+        "menuId": "3"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Customer Master Report",
+        "submenuId": "23",
+        "menuId": "3"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Cash Receipt Report",
+        "submenuId": "24",
+        "menuId": "3"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Chargeback Report",
+        "submenuId": "25",
+        "menuId": "3"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Invoice Report",
+        "submenuId": "26",
+        "menuId": "3"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "Daily Order/Shipment Report",
+        "submenuId": "27",
+        "menuId": "3"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "HARP Dispense Report",
+        "submenuId": "28",
+        "menuId": "3"
+      },
+      {
+        "submenuImage": "../../assets/images/IT.png",
+        "submenuName": "HARP Inventory Report",
+        "submenuId": "29",
+        "menuId": "3"
+      }
+    ]
+  }
